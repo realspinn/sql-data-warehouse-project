@@ -101,7 +101,7 @@ This project is licensed under the [MIT License](LICENSE). You can freely use, m
 
 ## About Me
 
-Hi there! I’m **Israel Adeleye**, also known as **Realspinn** a passionate and resilient self-taught database developer.
+Hi there! I’m **Israel Adeleye**, also known as **Realspinn** a passionate and resilient self-taught database engineer.
 
 Despite not studying a tech-related course, I’m committed to mastering data engineering, SQL, and database architecture through hands-on projects like this. I believe in learning by doing and building things that matter.
 
